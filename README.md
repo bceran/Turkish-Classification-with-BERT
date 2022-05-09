@@ -1,7 +1,7 @@
 # Turkish Text Classification with BERT
 
-![huggingface](http://url/to/img.png)
-![bert](http://url/to/img.png)
+![huggingface](https://github.com/bceran/Turkish-Classification-with-BERT/blob/main/photos/huggingface.png)
+![bert](https://github.com/bceran/Turkish-Classification-with-BERT/blob/main/photos/bert.png)
 
 This project includes a Turkish classifier written in PyTorch. In the project, a pre-trained BertModel was taken from the transformer library and fine-tuned. 
 
